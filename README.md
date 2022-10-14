@@ -8,8 +8,15 @@ I really like technology, programming, robotics and the arts, such as painting a
 
 </div>
 <div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/walter-diaz-969885243/2>
-    <img src="https://img.shields.io/twitter/url?color=green&label=Linkedin&logo=Linkedin&logoColor=green&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwalter-diaz-969885243%2F" 
-        alt="linkedin Badage" />
+    <a href="https://www.linkedin.com/in/walter-diaz-969885243/2" >
+    <img src="https://img.shields.io/twitter/url?color=green&label=Linkedin&logo=Linkedin&logoColor=green&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwalter-diaz-969885243%2F"
+    alt="linkedin Badage" />
+    </a>
+    <a href="https://www.linkedin.com/in/walter-diaz-969885243/2" >
+    <img src="https://img.shields.io/twitter/url?color=red%20&label=CodeWars&logo=Codewars&style=for-the-badge&url=https%3A%2F%2Fwww.codewars.com%2Fusers%2Fwalter7ff"
+    alt="linkedin Badage" />
     </a>
 </vid>
+
+----
+
